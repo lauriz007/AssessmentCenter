@@ -14,7 +14,7 @@ This is a demo sample for preparation of the assessment center. Open index.html 
   - Check if your file is present in the repository.
   - That's it!
   
- If you do not have experience with Git and Github try additionally prepare on the topics how to 
+ If you do not have experience with Git and Github try additionally prepare on the topics how to: 
  * Clone repository;
  * Create a branch;
  * Commit/Push code;
