@@ -1,4 +1,4 @@
-# Assessment Centre
+# Assessment Center
 
 This is a demo sample for preparation of the assessment center. Open index.html with the Chrome Browser (Tested with 74.0.3729.131 version). Other browsers should work as well, but please use Chrome.
 
