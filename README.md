@@ -1,12 +1,19 @@
 # DanskeBank Assessment Centre
 
-This is a demo sample for preparation of assessment center. Checkout this repository and load index.html with Chrome Browser (Tested with 74.0.3729.131 version). Other browsers should work as well, but please use Chrome.
+This is a demo sample for preparation of assessment center. Open index.html with Chrome Browser (Tested with 74.0.3729.131 version). Other browsers should work as well, but please use Chrome.
 
--  Once you have opened index.html push the button "Load Task 1";
--  Follow the instructions and try run the code as well as test solution.
--  Try implement solution and save it.
-
-For additional preparation find out how to commit/make branches/clone repository on Github.
-
-
-
+# Requirements for the task
+  - You have to fork this repository. If you do not have Github user, please create it. 
+  - Once you cloned the repository checkout or download all the files. Then open index.html with Chrome Browser.
+  - To load the task push the button "Load Task 1"
+  - Try solve it by finishing the function.
+  - Before saving it try "Test solution" - it will exacute sample test.
+  - Save it.
+  - In order to publish the solution you have to create a "solution" branch from the master.
+  - Then take your saved file and commit/push to the solution branch.
+  - That it!
+  
+ If you do not have experience with Git and Github try additionaly prepare on the topics how to 
+ * Clone repository
+ * Create branch
+ * Commit/Push code
