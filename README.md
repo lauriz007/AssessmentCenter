@@ -1,6 +1,6 @@
 # Assessment Center
 
-This is a demo sample for preparation of the assessment center. Open index.html with the Chrome Browser (Tested with 74.0.3729.131 version). Other browsers should work as well, but please use Chrome.
+This is a demo sample for the assessment center. Open index.html with the Chrome Browser (Tested with 74.0.3729.131 version). Other browsers should work as well, but please use Chrome.
 
 # Requirements for the task
   - You have to fork this repository. If you do not have Github user, please create it. 
