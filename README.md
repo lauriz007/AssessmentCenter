@@ -12,7 +12,7 @@ This is a demo sample for preparation of the assessment center. Open index.html 
   - In order to submit the solution you have to create a "solution" branch from the master branch in your forked repository.
   - Then take your saved file and commit/push to the solution branch.
   - Check if your file is present in the repository.
-  - Thats it!
+  - That's it!
   
  If you do not have experience with Git and Github try additionally prepare on the topics how to 
  * Clone repository;
