@@ -7,7 +7,7 @@ This is a demo sample for preparation of the assessment center. Open index.html 
   - Once you cloned the repository checkout or download all the files. Then open index.html with Chrome Browser.
   - To load the task push the button "Load Task 1"
   - Try solve it.
-  - Before saving it try "Test solution" - it will exacute thesample test.
+  - Before saving it try "Test solution" - it will exacute the sample test.
   - Save it.
   - In order to submit the solution you have to create a "solution" branch from the master branch in your forked repository.
   - Then take your saved file and commit/push to the solution branch.
