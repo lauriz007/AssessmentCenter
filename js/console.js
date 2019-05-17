@@ -8,10 +8,10 @@ var tasks = [
 
 '//Input: date in a string.  Like: 2018-08-13 17.00.05:542;\n'+
 '//Expected output from a function in console:\n'+
-'//Current time is 17 hours, 00 min, 05 sec & 542 millis. Date: 13/08/2017.\n\n'+
+'//Current time is 17 hours, 00 min, 05 sec & 542 millis. Date: 13/08/2018.\n\n'+
 
 'function convert(input){\n'+
-'	var output = "Current time is 17 hours, 00 min, 05 sec & 542 millis. Date: 13/08/2017.";\n\n'+	
+'	var output = "Current time is 17 hours, 00 min, 05 sec & 542 millis. Date: 13/08/2018.";\n\n'+	
 '       //your solution should be here\n\n'+
 '	return output;\n'+
 '}\n\n'+
@@ -25,7 +25,7 @@ var tasks = [
 var tests = [
 
 "var testSample = '2018-08-13 17.00.05:542';\n"+
-'var output = "Current time is 17 hours, 00 min, 05 sec & 542 millis. Date: 13/08/2017."\n'+
+'var output = "Current time is 17 hours, 00 min, 05 sec & 542 millis. Date: 13/08/2018."\n'+
 
 'if(convert(testSample) == output){\n'+
 '	alert("Solution is good");\n'+
